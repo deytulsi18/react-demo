@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# To checkout the website click [here](https://deytulsi18.github.io/react-demo/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
